@@ -31,7 +31,8 @@
   background: #fff;
   border: none;
   cursor: pointer;
-  text-align: center; line-height: 80px;\n  line-height: 80px;
+  text-align: center;
+  line-height: 80px;
   transition: background-color 0.2s;
   color: #000;
 }
